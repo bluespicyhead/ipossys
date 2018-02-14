@@ -1,2 +1,2 @@
 # ipossys
-Inventory and point of sale software(UnderDevelopment)
+Inventory and point of sale software(UnderDevelopment).
